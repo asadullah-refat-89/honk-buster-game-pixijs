@@ -34,7 +34,7 @@ Here are some components that you can reuse in your game.
 - Viewport scaling
 - Isometric movement
 
-Play here: https://asadullahrifat89.github.io/honk-buster-game-pixijs/
+Play here: https://asadullah-refat-89.github.io/honk-buster-game-pixijs/
 
 ## Screenshots
 ![iPad-frame-1](https://github.com/asadullahrifat89/honk-buster-game-pixijs/assets/25480176/b70cb581-be8b-40d1-b210-f59d02859b2a)
